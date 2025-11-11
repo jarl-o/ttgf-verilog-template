@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It's my first Tinytapeouy, aint got much too it.
 
 ## How to test
 
-Explain how to use your project
+Even i don't know that.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Nothing i guess.
